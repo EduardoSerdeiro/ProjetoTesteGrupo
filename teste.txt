@@ -1,4 +1,9 @@
 tretas huehueheuheuehuehuehuehuehueheuheuehue
 
 
+<<<<<<< HEAD
 Muitas uhsahusahuasuh
+=======
+
+huehue
+>>>>>>> 03edab995625c1beb289be9b38895749148f5fc6
